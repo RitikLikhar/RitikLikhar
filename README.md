@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @RitikLikhar
+- 👀 I’m interested in Full-Stack Development, Digital Product Design, Graphic Design, and Promotional Video Editing.
+- 🌱 I’m currently learning advanced JavaScript frameworks, UX/UI design principles, and the latest video editing techniques.
+- 💞️ I’m looking to collaborate on innovative digital projects, Android Applications, web applications, and creative media content.
+- 📫 How to reach me: 
+  - Email: ritiklikhar7@gmail.com
+  - LinkedIn: [RitikLikhar](https://www.linkedin.com/in/ritiklikhar)
+  - Contact: +91 6266431319
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can seamlessly switch between writing code, designing visuals, and editing videos within the same hour!
